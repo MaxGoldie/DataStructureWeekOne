@@ -1,4 +1,10 @@
 package week1;
+/*
+
+Goldie looks great.  I really like the way you thought about this.. Your mergeSort is a different implementation, and that is good. 
+Comments are missing so -8% : 92% 
+Really nice work 
+*/
 
 public class MergeSort<T extends Comparable<T>> {
 
